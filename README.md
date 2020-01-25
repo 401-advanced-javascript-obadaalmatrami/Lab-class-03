@@ -2,12 +2,14 @@
 LAB: Async
 Author: obada
 Links and Resources
-submission PR ()
-ci/cd (GitHub Actions)
+submission PR (https://github.com/401-advanced-javascript-obadaalmatrami/Lab-class-03/pull/2)
 
-PORT - Port Number
 
-How to initialize/run your application  npm start
+ci/cd (https://github.com/401-advanced-javascript-obadaalmatrami/Lab-class-03/actions/runs/31234391)
+
+
+How to initialize/run your application 
+ npm start
 
 How do you run tests?
 npm test 
